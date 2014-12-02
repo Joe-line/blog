@@ -14,3 +14,4 @@ git commit -m "aaaaa"
 username
 passwd
 
+git pull origin master
